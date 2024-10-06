@@ -1,6 +1,6 @@
 import {useEffect, useState} from "react";
 import {Character} from "../types";
-import RickAndMortyChild from "../components/RickandMortyChild"
+import RickAndMortyChild from "../components/RickAndMortyChild"
 
 //parent component used for retrieving info from API
 export default function RickAndMorty(){ 
